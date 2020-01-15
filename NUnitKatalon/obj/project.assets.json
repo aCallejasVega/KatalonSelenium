@@ -5687,11 +5687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\03.PROYECTOS\\KatalonGit\\KatalonSelenium\\NUnitKatalon\\NUnitKatalon.csproj",
+      "projectUniqueName": "D:\\03.PROYECTOS\\KatalonGit\\katalonJenkins\\KatalonSelenium\\NUnitKatalon\\NUnitKatalon.csproj",
       "projectName": "NUnitKatalon",
-      "projectPath": "D:\\03.PROYECTOS\\KatalonGit\\KatalonSelenium\\NUnitKatalon\\NUnitKatalon.csproj",
+      "projectPath": "D:\\03.PROYECTOS\\KatalonGit\\katalonJenkins\\KatalonSelenium\\NUnitKatalon\\NUnitKatalon.csproj",
       "packagesPath": "C:\\Users\\pquispe\\.nuget\\packages\\",
-      "outputPath": "D:\\03.PROYECTOS\\KatalonGit\\KatalonSelenium\\NUnitKatalon\\obj\\",
+      "outputPath": "D:\\03.PROYECTOS\\KatalonGit\\katalonJenkins\\KatalonSelenium\\NUnitKatalon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
